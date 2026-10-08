@@ -2,6 +2,8 @@
 
 Simple Windows tool to convert a Memtest86 USB `.img` file into a bootable ISO.
 
+Very useful if you want boot Memtest86 throught a PXE server like iVentoy which accept only ISO files.
+
 ## How to use
 
 1. Download the latest release
